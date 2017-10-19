@@ -3,20 +3,21 @@ package ch14.bookshop.master;
 import java.sql.Timestamp;
 
 //bookdatabean
+//aaaaasdff
 
 public class ShopBookDataBean {
-	private int book_id; //책의 등록번호
-	private String book_kind; //책의 분류
-	private String book_title; //책이름
-	private int book_price; //책가격
-	private short book_count; //책의 재고수량
-	private String author; //저자
-	private String publishing_com; //출판사
-	private String publishing_date; //출판일
-	private String book_image; //책 이미지명
-	private String book_content; //책의 내용
-	private byte discount_rate; //책의 할인율
-	private Timestamp reg_date; //책의 등록날짜
+	private int book_id; //梨낆쓽 �벑濡앸쾲�샇
+	private String book_kind; //梨낆쓽 遺꾨쪟
+	private String book_title; //梨낆씠由�
+	private int book_price; //梨낃�寃�
+	private short book_count; //梨낆쓽 �옱怨좎닔�웾
+	private String author; //���옄
+	private String publishing_com; //異쒗뙋�궗
+	private String publishing_date; //異쒗뙋�씪
+	private String book_image; //梨� �씠誘몄�紐�
+	private String book_content; //梨낆쓽 �궡�슜
+	private byte discount_rate; //梨낆쓽 �븷�씤�쑉
+	private Timestamp reg_date; //梨낆쓽 �벑濡앸궇吏�
 	
 	public int getBook_id() {
 		return book_id;
