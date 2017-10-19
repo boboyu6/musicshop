@@ -2,6 +2,8 @@ package ch14.bookshop.master;
 
 import java.sql.Timestamp;
 
+//bookdatabean
+
 public class ShopBookDataBean {
 	private int book_id; //책의 등록번호
 	private String book_kind; //책의 분류
