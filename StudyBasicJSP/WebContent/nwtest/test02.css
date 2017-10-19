@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+body {
+	height: 550px;
+	margin:0 auto; 
+	text-align: center;
+}
+fieldset {
+	width: 550px;
+	margin:0 auto;
+}
+fieldset legend {
+	text-align: left;
+}
+
+p {
+	text-align:left;
+	margin-left:10px;
+}
+table {
+	width: 550px;
+	margin-left:10px;
+	text-align: left;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+table tr {
+	height: 40px;
+}

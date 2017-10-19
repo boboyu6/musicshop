@@ -1,0 +1,64 @@
+@CHARSET "UTF-8";
+
+body {
+	height: 100%;
+	font-size: 17px; 
+	text-align: center;
+	background: url(../images/bg4.jpg) no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	
+}
+pre {
+	white-space: normal;
+}
+
+table {
+	font-size: 17px;
+	font-weight: 600;
+	color: black;
+	width : 800px;
+	text-align: center;
+	margin: 0 auto;
+	border: 1px solid black;
+	border-collapse: collapse;
+	background-color: rgba(255,255,255,0.8);
+}
+table a {
+	text-decoration: none;
+	color: black;
+}
+table td {
+	padding: 5px;
+}
+table tr td input {
+	height : 20px;
+}
+.list_bottom a {
+	color: black;
+}
+#form_table td {
+	color: black;
+}
+select {
+	font-size: 13px; 
+}
+
+form {
+	font-size: 17px; 
+}
+
+p{
+	clear: both;
+	text-align: center;
+	font-weight: 700;
+	font-size: 30px;
+	color: white;
+}
+
+#button input {
+	margin: 0 auto;
+	width: 130px;
+	height: 50px;
+	background-color: #EDAF8C;
+}
