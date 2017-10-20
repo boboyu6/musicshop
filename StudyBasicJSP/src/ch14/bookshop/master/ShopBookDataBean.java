@@ -4,7 +4,7 @@ import java.sql.Timestamp;
 
 //bookdatabean
 //aaaaasdff
-
+//학원 컴퓨터 작업
 public class ShopBookDataBean {
 	private int book_id; //梨낆쓽 �벑濡앸쾲�샇
 	private String book_kind; //梨낆쓽 遺꾨쪟
